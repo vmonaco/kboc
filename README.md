@@ -1,4 +1,4 @@
-[paper]: http://arxiv.org/pdf/.pdf
+[paper]: https://arxiv.org/abs/1606.09075
 ## Robust Keystroke Biometric Anomaly Detection
 
 Source code for the submissions made by U.S. Army Research Laboratory to the [Keystroke Biometrics Ongoing Competition](https://sites.google.com/site/btas16kboc/home) (KBOC).
